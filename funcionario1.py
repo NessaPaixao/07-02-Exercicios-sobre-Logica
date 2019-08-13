@@ -4,3 +4,4 @@ valor = float(input("Digite o valor de cada hora: "))
 
 salario =  horas * valor
 print(str(nome) + " seu salário é: " + "R$" + str(salario) )
+
